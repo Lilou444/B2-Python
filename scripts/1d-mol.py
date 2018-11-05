@@ -1,7 +1,11 @@
-
 #!/usr/bin/env python3
 
+###1d-mol
+### Lilou444
+### 2018-11-05 (derniere mise à jour)
+
 from random import *
+
 
 def moyenne ():
 nombre = random() 

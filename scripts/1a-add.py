@@ -1,5 +1,8 @@
-
 #!/usr/bin/env python3
+
+###1a-aad
+### Lilou444
+### 2018-11-05 (derniere mise à jour) 
  
 def addition():
     nb1 = int(input("Entrez le premier nombre : "))

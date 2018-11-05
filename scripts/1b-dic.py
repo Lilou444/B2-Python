@@ -1,6 +1,8 @@
-
-
 #!/usr/bin/env python3
+
+###1b-dic
+### Lilou444
+### 2018-11-05 (derniere mise à jour)
 
 
 def dictionnaire():

@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+###1c-moy
+### Lilou444
+### 2018-11-05 (derniere mise à jour)
+
 def moyenne() : 
    mylist = []
    prenom = ' leila '
