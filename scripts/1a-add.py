@@ -4,7 +4,7 @@
 ### Lilou444
 ### 2018-11-05 (derniere mise à jour) 
  
-def addition():
+def addition():  #cette fonction permet l'addition de deux nombres 
     nb1 = int(input("Entrez le premier nombre : "))
     nb2 = int(input("Entrez le deuxieme nombre : "))
     return nb1 + nb2
