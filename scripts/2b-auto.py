@@ -2,6 +2,13 @@
 ##Lilou444
 ##10-11-2018 
 
+
+##2a-auto.py estt un programme qui résout le 2a-mol.py le but est de créer deux fonction l'une pour écrire et l'autre pour lire ce fichier 
+
+
+
+number= int(input())
+
 # ecrire dans un fichier
 def ecrire_Dans_Fichier(path,texte):
         fichier = open(path,"w")
