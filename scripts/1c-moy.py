@@ -4,6 +4,7 @@
 ### Lilou444
 ### 11-11-2018 (derniere mise à jour)
 
+
 def stockage_de_note() : 
    mylist = []
    prenom = ' leila '
