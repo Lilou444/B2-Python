@@ -17,7 +17,7 @@ def Sauvegarde() :
     sys.stderr = fsock       
     print(sys.stderr)
 
-
+#cette fonction permet la sauvegarde d'un répertoire 
 
 
 print(Sauvegarde())
