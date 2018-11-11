@@ -18,6 +18,7 @@ def dictionnaire():
 
 print(dictionnaire())
 
-#il ne met pas les prénoms à la suite dans le dictionnaire je dois l'ameliorer egalement pour la semaine prochaine 
+#il ne met pas les prénoms à la suite dans le dictionnaire
+#je n'ai pas trouvé comment enlever cette erreur  
 #j'èpere avoir compris l'idée
 
